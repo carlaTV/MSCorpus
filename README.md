@@ -13,4 +13,4 @@ The considered features are:
   - surface syntax
   - Part of Speech
   
-The corous is available in: 
+The corous is available in: https://github.com/carlaTV/MSCorpus/blob/master/wekaTest/CorpusAligned_BinaryBalanced.arff
